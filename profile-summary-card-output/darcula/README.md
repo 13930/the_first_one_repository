@@ -15,10 +15,40 @@
 ### Each card usage
 ---
 
+![](./0-profile-details.svg)
+
+```
+![](https://raw.githubusercontent.com/13930/the_first_one_repository/master/profile-summary-card-output/darcula/0-profile-details.svg)
+```
+
+    
+
+---
+
 ![](./1-repos-per-language.svg)
 
 ```
 ![](https://raw.githubusercontent.com/13930/the_first_one_repository/master/profile-summary-card-output/darcula/1-repos-per-language.svg)
+```
+
+    
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/13930/the_first_one_repository/master/profile-summary-card-output/darcula/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/13930/the_first_one_repository/master/profile-summary-card-output/darcula/3-stats.svg)
 ```
 
     
